@@ -1,0 +1,14 @@
+C:\Users\Sinitza\source\repos\LabPicturesToWord\LabPicturesToWord\bin\Debug\LabPicturesToWord.exe.config
+C:\Users\Sinitza\source\repos\LabPicturesToWord\LabPicturesToWord\bin\Debug\LabPicturesToWord.exe
+C:\Users\Sinitza\source\repos\LabPicturesToWord\LabPicturesToWord\bin\Debug\LabPicturesToWord.pdb
+C:\Users\Sinitza\source\repos\LabPicturesToWord\LabPicturesToWord\bin\Debug\Xceed.Document.NET.dll
+C:\Users\Sinitza\source\repos\LabPicturesToWord\LabPicturesToWord\bin\Debug\Xceed.Words.NET.dll
+C:\Users\Sinitza\source\repos\LabPicturesToWord\LabPicturesToWord\bin\Debug\Xceed.Document.NET.pdb
+C:\Users\Sinitza\source\repos\LabPicturesToWord\LabPicturesToWord\bin\Debug\Xceed.Words.NET.pdb
+C:\Users\Sinitza\source\repos\LabPicturesToWord\LabPicturesToWord\obj\Debug\LabPicturesToWord.csprojAssemblyReference.cache
+C:\Users\Sinitza\source\repos\LabPicturesToWord\LabPicturesToWord\obj\Debug\LabPicturesToWord.Form1.resources
+C:\Users\Sinitza\source\repos\LabPicturesToWord\LabPicturesToWord\obj\Debug\LabPicturesToWord.Properties.Resources.resources
+C:\Users\Sinitza\source\repos\LabPicturesToWord\LabPicturesToWord\obj\Debug\LabPicturesToWord.csproj.GenerateResource.cache
+C:\Users\Sinitza\source\repos\LabPicturesToWord\LabPicturesToWord\obj\Debug\LabPicturesToWord.csproj.CopyComplete
+C:\Users\Sinitza\source\repos\LabPicturesToWord\LabPicturesToWord\obj\Debug\LabPicturesToWord.exe
+C:\Users\Sinitza\source\repos\LabPicturesToWord\LabPicturesToWord\obj\Debug\LabPicturesToWord.pdb
